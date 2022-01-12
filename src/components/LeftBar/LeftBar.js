@@ -50,55 +50,45 @@ function LeftBar() {
                 <hr className="leftbarhr" />
                 <ul className="leftbarfriendlist">
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
                   <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
+                      <img className="leftbarfriendimg" src="https://www.usnews.com/dims4/USNEWS/f45ea7c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd1%2Fd8%2F8501ba714a21aed9a7327e02ade1%2F180515-10thingselonmusk-editorial.jpg" alt="nev" />
                       <span className="leftbarfriendname">Elon Musk</span>
                   </li>
-                  <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
-                      <span className="leftbarfriendname">Elon Musk</span>
-                  </li>
-                  <li className="leftbarfriend">
-                      <img className="leftbarfriendimg" src="/Assets/images.jpg" alt="nev" />
-                      <span className="leftbarfriendname">Elon Musk</span>
-                  </li>
-                  
-                  
                   
                 </ul>
             </div>

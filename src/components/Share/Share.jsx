@@ -5,7 +5,7 @@ function Share() {
         <div className="share">
             <div className="sharewraper">
                 <div className="sharetop">
-                   <img className="shareprofileimg" src="/Assets/IMG_20210728_153908.jpg" alt="" />
+                   <img className="shareprofileimg" src="https://media-exp1.licdn.com/dms/image/C4D03AQGSv0p0PjJkFg/profile-displayphoto-shrink_100_100/0/1627492765694?e=1647475200&v=beta&t=7naXEdQ-koMJoER9ueR9TPC5Xn152MugpS_7rQLPt3I" alt="" />
                     <input placeholder="Whats in your mind?" className="shareinput" />
                 </div>
                 <hr className="sharehr" />

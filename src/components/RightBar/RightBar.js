@@ -5,7 +5,7 @@ function RightBar() {
         <div className="rightbar">
             <div className="rightbarwraper">
                 <div className="add">
-                    <img className="addimg" src="/Assets/crypto-istock-1039297-1633867183.jpg" alt="" />
+                    <img className="addimg" src="https://wallpaperaccess.com/full/3949085.jpg" alt="" />
                 </div>
             </div>
         </div>

@@ -28,7 +28,7 @@ function TopBar() {
                       <Notifications/>
                   </div>
               </div>
-              <img src="Assets\IMG_20210728_153908.jpg" alt="" className="profilepic" />
+              <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGSv0p0PjJkFg/profile-displayphoto-shrink_400_400/0/1627492765694?e=1647475200&v=beta&t=Nk23bWtPUozjt6HwscxjXK1_Wrx1B_wg_8TNKcSfgDs" alt="" className="profilepic" />
           </div>
         </div>
     )
