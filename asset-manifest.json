@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wtc-social-media-app/static/css/main.04702fed.css",
+    "main.js": "/wtc-social-media-app/static/js/main.2cd56b9b.js",
+    "index.html": "/wtc-social-media-app/index.html",
+    "main.04702fed.css.map": "/wtc-social-media-app/static/css/main.04702fed.css.map",
+    "main.2cd56b9b.js.map": "/wtc-social-media-app/static/js/main.2cd56b9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04702fed.css",
+    "static/js/main.2cd56b9b.js"
+  ]
+}
